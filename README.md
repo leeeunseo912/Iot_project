@@ -22,4 +22,4 @@
 <hr/>
 
 ### 시연 영상
-https://www.youtube.com/watch?v=c2TDCYNMKy4
+* https://www.youtube.com/watch?v=c2TDCYNMKy4
