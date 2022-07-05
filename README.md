@@ -11,6 +11,10 @@
 * 라즈베리파이와 아두이노에 연결된 다양한 센서들을 통해 측정된 값을 안드로이드 앱에 띄워주거나 앱을 통해서 센서들을 컨트롤하는 방식입니다.<br>
 <hr/>
 
+### 시연 영상
+* https://www.youtube.com/watch?v=c2TDCYNMKy4
+<hr/>
+
 ### 기능 소개
 1. 메인 화면<br>
 <img width="700" alt="1" src="https://github.com/leeeunseo912/Iot_project/blob/main/test/main.PNG?raw=true">
@@ -30,9 +34,4 @@
 
 ### 시스템 구성도
 <img width="700" alt="1" src="https://github.com/leeeunseo912/Iot_project/blob/main/test/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B5%AC%EC%84%B1%EB%8F%84.PNG?raw=true">
-<hr/>
 
-### 시연 영상
-
-IoT 1조 오늘의 방
-* https://www.youtube.com/watch?v=c2TDCYNMKy4
